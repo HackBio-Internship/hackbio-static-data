@@ -1,0 +1,48 @@
+{
+    "industry": [
+        {
+            "image": "https://raw.githubusercontent.com/HackBio-Internship/knowledge_repo/main/pics/Ankita.png",
+            "name": "Ankita Kumari",
+            "institution": "Basepair, USA",
+            "content": "HackBio gave me the boldness to work across borders and time zone. I quickly translated that to my job search and it worked the magic.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/HackBio-Internship/knowledge_repo/main/pics/mike-femi.jpeg",
+            "name": "Mike Femi",
+            "institution": "University Florida, AfroRoots & NIMR",
+            "content": "The genomics track of the internship was a dealmaker for me. I have secured a research jobs at 2 startups even before starting my PhD.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        }
+    ],
+    "academia": [
+        {
+            "image": "https://raw.githubusercontent.com/HackBio-Internship/knowledge_repo/main/pics/winfred_gatua.jpeg",
+            "name": "Winfred Gatua",
+            "institution": "University of Bristol, UK",
+            "content": "My HackBio experience (and preprint) was my leverage for an interesting conversation with my interview with my Graduate School Admission Team.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        },
+        {
+            "image": "/story-profile.svg",
+            "name": "Toluwalase Adeosun",
+            "institution": "Jagiellonian University, Poland",
+            "content": "Being a chemist, HackBio provided the biology and technical competence for me to dive into drug development. My initially doubtful supervisor quickly approved me before the end of the admission meeting.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/HackBio-Internship/knowledge_repo/main/pics/siddhant-sharma.webp",
+            "name": "Siddhant Sharma",
+            "institution": "Iowa state university",
+            "content": "Since I completed the HackBio internship, I have won more than 3 remote grants as an undergraduate in Sweden & USA. The experience has being wonderful for me.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        },
+        {
+            "image": "https://raw.githubusercontent.com/HackBio-Internship/knowledge_repo/main/pics/ayo%20adeniyi.jpeg",
+            "name": "Ayo Adeniyi",
+            "institution": "Iowa state university",
+            "content": "The internship gave me deep understandings and competencies of the questions modern research is trying to answer and it was impressive to my Admission team.",
+            "reference": "Lorem Ipsum Shit! Lorem Ipsum Shit!"
+        }
+    ]
+}
